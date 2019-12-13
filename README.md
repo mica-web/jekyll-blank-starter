@@ -1,5 +1,5 @@
 # jekyll-blank-starter
-The --blank flag for Jekyll truly creates a blank setup. Use this to get started.
+The --blank flag for [Jekyll](https://jekyllrb.com/) truly creates a blank setup. Use this to get started.
 
 # Installation instructions
 Jekyll uses Ruby, so we need to make sure it's on your current machine. First, let's see if you have Ruby on your machine.
